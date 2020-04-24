@@ -1,6 +1,6 @@
 {
   "name": "ffmpeg-bundle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "FFMPEG utility along with platform independent binary installer of FFmpeg for node projects",
   "main": "index.js",
   "scripts": {
