@@ -1,0 +1,16 @@
+/node_modules
+models/
+/coverage
+
+.DS_Store
+.env
+.env.development
+.env.staging
+.env.production
+.vscode
+.idea
+
+npm-debug.log*
+npm-error.log*
+yarn-debug.log*
+yarn-error.log*
