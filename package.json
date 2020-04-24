@@ -15,7 +15,8 @@
   "author": "Onkar Kore",
   "license": "MIT",
   "dependencies": {
-    "@ffmpeg-installer/ffmpeg": "1.0.12"
+    "@ffmpeg-installer/ffmpeg": "1.0.12",
+    "when": ">= 0.0.1"
   },
   "repository": {
     "type": "git",
